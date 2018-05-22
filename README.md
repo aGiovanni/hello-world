@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+What's up
+
+Just another user reading the tutorial, lol
